@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-11T13:22:53 CLT" name="Suite" finished-at="2022-05-11T13:23:58 CLT" duration-ms="65635">
+    <groups>
+    </groups>
+    <test started-at="2022-05-11T13:22:53 CLT" name="Test - Nosotros" finished-at="2022-05-11T13:23:07 CLT" duration-ms="14476">
+      <class name="com.test.nosotrosTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.test.nosotrosTest@6a192cfe]" started-at="2022-05-11T13:22:53 CLT" name="beforeClass" finished-at="2022-05-11T13:23:00 CLT" duration-ms="7483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="PruebaNosotros()[pri:0, instance:com.test.nosotrosTest@6a192cfe]" started-at="2022-05-11T13:23:00 CLT" name="PruebaNosotros" finished-at="2022-05-11T13:23:07 CLT" duration-ms="6776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaNosotros -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.test.nosotrosTest@6a192cfe]" started-at="2022-05-11T13:23:07 CLT" name="afterClass" finished-at="2022-05-11T13:23:07 CLT" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.nosotrosTest -->
+    </test> <!-- Test - Nosotros -->
+    <test started-at="2022-05-11T13:23:07 CLT" name="Test - Servicios" finished-at="2022-05-11T13:23:18 CLT" duration-ms="10335">
+      <class name="com.test.serviciosTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.test.serviciosTest@4466af20]" started-at="2022-05-11T13:23:07 CLT" name="beforeClass" finished-at="2022-05-11T13:23:13 CLT" duration-ms="6127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="PruebaServicios()[pri:0, instance:com.test.serviciosTest@4466af20]" started-at="2022-05-11T13:23:13 CLT" name="PruebaServicios" finished-at="2022-05-11T13:23:17 CLT" duration-ms="4038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaServicios -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.test.serviciosTest@4466af20]" started-at="2022-05-11T13:23:17 CLT" name="afterClass" finished-at="2022-05-11T13:23:18 CLT" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.serviciosTest -->
+    </test> <!-- Test - Servicios -->
+    <test started-at="2022-05-11T13:23:18 CLT" name="Test - Casos de exito" finished-at="2022-05-11T13:23:28 CLT" duration-ms="10156">
+      <class name="com.test.casosExitoTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.test.casosExitoTest@7b9a4292]" started-at="2022-05-11T13:23:18 CLT" name="beforeClass" finished-at="2022-05-11T13:23:23 CLT" duration-ms="5693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="PruebaCasos()[pri:0, instance:com.test.casosExitoTest@7b9a4292]" started-at="2022-05-11T13:23:23 CLT" name="PruebaCasos" finished-at="2022-05-11T13:23:27 CLT" duration-ms="3955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaCasos -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.test.casosExitoTest@7b9a4292]" started-at="2022-05-11T13:23:27 CLT" name="afterClass" finished-at="2022-05-11T13:23:28 CLT" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.casosExitoTest -->
+    </test> <!-- Test - Casos de exito -->
+    <test started-at="2022-05-11T13:23:28 CLT" name="Test - Capacitaciones" finished-at="2022-05-11T13:23:37 CLT" duration-ms="9228">
+      <class name="com.test.capacitacionesTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.test.capacitacionesTest@12468a38]" started-at="2022-05-11T13:23:28 CLT" name="beforeClass" finished-at="2022-05-11T13:23:33 CLT" duration-ms="5224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="PruebaCapacitaciones()[pri:0, instance:com.test.capacitacionesTest@12468a38]" started-at="2022-05-11T13:23:33 CLT" name="PruebaCapacitaciones" finished-at="2022-05-11T13:23:37 CLT" duration-ms="3877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaCapacitaciones -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.test.capacitacionesTest@12468a38]" started-at="2022-05-11T13:23:37 CLT" name="afterClass" finished-at="2022-05-11T13:23:37 CLT" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.capacitacionesTest -->
+    </test> <!-- Test - Capacitaciones -->
+    <test started-at="2022-05-11T13:23:37 CLT" name="Test - Contacto" finished-at="2022-05-11T13:23:48 CLT" duration-ms="11009">
+      <class name="com.test.contactoTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.test.contactoTest@6b81ce95]" started-at="2022-05-11T13:23:37 CLT" name="beforeClass" finished-at="2022-05-11T13:23:44 CLT" duration-ms="6784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="PruebaContacto()[pri:0, instance:com.test.contactoTest@6b81ce95]" started-at="2022-05-11T13:23:44 CLT" name="PruebaContacto" finished-at="2022-05-11T13:23:48 CLT" duration-ms="3980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaContacto -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.test.contactoTest@6b81ce95]" started-at="2022-05-11T13:23:48 CLT" name="afterClass" finished-at="2022-05-11T13:23:48 CLT" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.contactoTest -->
+    </test> <!-- Test - Contacto -->
+    <test started-at="2022-05-11T13:23:48 CLT" name="Test - Blog" finished-at="2022-05-11T13:23:58 CLT" duration-ms="10388">
+      <class name="com.test.blogTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.test.blogTest@245b4bdc]" started-at="2022-05-11T13:23:48 CLT" name="beforeClass" finished-at="2022-05-11T13:23:54 CLT" duration-ms="6073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="PruebaBlog()[pri:0, instance:com.test.blogTest@245b4bdc]" started-at="2022-05-11T13:23:54 CLT" name="PruebaBlog" finished-at="2022-05-11T13:23:58 CLT" duration-ms="4148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaBlog -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.test.blogTest@245b4bdc]" started-at="2022-05-11T13:23:58 CLT" name="afterClass" finished-at="2022-05-11T13:23:58 CLT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.blogTest -->
+    </test> <!-- Test - Blog -->
+  </suite> <!-- Suite -->
+</testng-results>
